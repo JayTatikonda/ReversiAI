@@ -1,0 +1,2 @@
+C:\Users\tjsan\Desktop\sfu\cmpt 310\project\reversi\Debug\reversi.exe
+C:\Users\tjsan\Desktop\sfu\cmpt 310\project\reversi\Debug\reversi.pdb
